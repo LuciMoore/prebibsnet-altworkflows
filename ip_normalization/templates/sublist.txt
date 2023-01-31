@@ -1,0 +1,21 @@
+Subjects included in average age-specific templates:
+0mo_Template_01
+0mo_Template_02
+0mo_Template_04
+0mo_Template_05
+0mo_Template_06
+0mo_Template_07
+0mo_Template_09
+0mo_Template_12
+0mo_Template_15
+0mo_Template_16
+0mo_Template_17
+0mo_Template_19
+0mo_Template_20
+
+1mo_sub-198549
+1mo_sub-375518
+1mo_sub-439083
+1mo_sub-584381
+1mo_sub-761141
+1mo_sub-943541
